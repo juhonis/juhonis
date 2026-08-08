@@ -22,6 +22,6 @@ However, I have built comprehensive, production-ready projects including:
 **I am more than happy to grant repository access, share screen, or do a deep-dive code walkthrough during an interview!**
 
 ### 📫 Let's Connect
-*   **LinkedIn:** [Add your LinkedIn URL here]
-*   **Portfolio:** [Add your Portfolio URL here]
+*   **LinkedIn:** https://linkedin.com/in/juhonis
+*   **Portfolio:** tbd (soon tm)
 *   **Email:** juho.niskanen.dev@gmail.com
