@@ -23,5 +23,5 @@ However, I have built comprehensive, production-ready projects including:
 
 ### 📫 Let's Connect
 *   **LinkedIn:** https://linkedin.com/in/juhonis
-*   **Portfolio:** juhoniskanen.pages.dev
+*   **Portfolio:** [juhoniskanen.pages.dev](juhoniskanen.pages.dev)
 *   **Email:** juho.niskanen.dev@gmail.com
